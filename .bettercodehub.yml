@@ -1,0 +1,6 @@
+exclude:
+- /BetterCodeHubTest/Build/Intermediates/BetterCodeHubTest.build/Debug-iphonesimulator/BetterCodeHubTest.build/.*
+component_depth: 1
+languages:
+- objectivec
+- swift
