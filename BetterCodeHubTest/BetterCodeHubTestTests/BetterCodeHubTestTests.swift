@@ -33,4 +33,42 @@ class BetterCodeHubTestTests: XCTestCase {
         }
     }
     
+    func testPerformanceExamplexcvcxvcxvcxvcxv() {
+        // This is an example of a performance test case.
+        self.measure {
+            // Put the code you want to measure the time of here.
+        }
+    }
+    func testPerformanceExamplexcvcxvcxvxcvxc() {
+        // This is an example of a performance test case.
+        self.measure {
+            // Put the code you want to measure the time of here.
+        }
+    }
+    func testPerformanceExamplexcvcxvcxvxcvxcv() {
+        // This is an example of a performance test case.
+        self.measure {
+            // Put the code you want to measure the time of here.
+        }
+    }
+    func testPerformanceExamplexcvcxvcxvxcv() {
+        // This is an example of a performance test case.
+        self.measure {
+            // Put the code you want to measure the time of here.
+        }
+    }
+    func testPerformanceExamplevcxvxc() {
+        // This is an example of a performance test case.
+        self.measure {
+            // Put the code you want to measure the time of here.
+        }
+    }
+    func testPerformanceExamplevcx() {
+        // This is an example of a performance test case.
+        self.measure {
+            // Put the code you want to measure the time of here.
+        }
+    }
+    
+    
 }
