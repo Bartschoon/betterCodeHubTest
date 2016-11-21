@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "7efda6efd5fb1057b529b1e07f1942aa"
+build_time: [533040117, 521780000]
+inputs:
+  "/Users/bartschoon/Development/BartiOS/betterCodeHubTest/BetterCodeHubTest/BetterCodeHubTest/ViewController.swift": [533040114, 0]
+  "/Users/bartschoon/Development/BartiOS/betterCodeHubTest/BetterCodeHubTest/BetterCodeHubTest/AppDelegate.swift": [533040114, 0]
